@@ -35,6 +35,12 @@
 </a>
 
 ---
+### :zap: Actividad reciente
+<!--START_SECTION:activity -->
+
+
+<!--end_SECTION:activity -->
+---
 
 ### 📌 Intereses  
 - 🧮 Data Science & Machine Learning  
