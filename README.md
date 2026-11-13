@@ -37,14 +37,14 @@
 ---
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/skillAgentes](https://github.com/CarlosFabrishioVenegas/skillAgentes)<br>
-2. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/skillAgentes](https://github.com/CarlosFabrishioVenegas/skillAgentes)<br>
+1. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/AgenteIA](https://github.com/CarlosFabrishioVenegas/AgenteIA)<br>
+2. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/AgenteIA](https://github.com/CarlosFabrishioVenegas/AgenteIA)<br>
 3. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/skillAgentes](https://github.com/CarlosFabrishioVenegas/skillAgentes)<br>
 4. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/skillAgentes](https://github.com/CarlosFabrishioVenegas/skillAgentes)<br>
 5. ⬆️ Pushed undefined commit(s) to [CarlosFabrishioVenegas/skillAgentes](https://github.com/CarlosFabrishioVenegas/skillAgentes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 13th, 2026, 6:02:44 AM
+Last Updated: Friday, November 13th, 2026, 7:26:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
